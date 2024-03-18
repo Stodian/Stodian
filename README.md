@@ -8,7 +8,7 @@ By day, I'm focused on designing electrical systems for buildings, and by night,
 
 
 ## **Goal:** ##
-**Design a complete, clash free... MEP (Mech, Elec & Plumb) system with a single .rvt file input.**
+**Using C# & Python to Design a complete, clash free... MEP (Mech, Elec & Plumb) system with a single .rvt file input.**
 
 ....
 
