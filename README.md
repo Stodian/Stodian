@@ -2,7 +2,7 @@
 
 ....
 
-I'm Ethan, an Electrical Design Engineer with a fear of code. 
+I'm Ethan, an Electrical Design Engineer. 
 
 By day, I'm focused on designing electrical systems for buildings, and by night, learning to replace myself with AI.
 
