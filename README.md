@@ -4,7 +4,7 @@
 
 I'm Ethan, an Electrical Design Engineer. 
 
-By day, I'm focused on designing electrical systems for buildings, and by night, learning to replace myself with AI.
+By day, I design electrical systems, and by night, building back end development tools.
 
 
 ## **Goal:** ##
