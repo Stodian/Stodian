@@ -4,7 +4,7 @@
 
 I'm Ethan, an Electrical Design Engineer. 
 
-By day, I design electrical systems, and by night, build back-end development tools in C# & Python.
+By day, I design electrical systems, and by night, build back-end development tools.
 
 
 ## **Goal:** ##
