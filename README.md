@@ -4,7 +4,7 @@
 
 I'm Ethan, an Electrical Design Engineer. 
 
-By day, I design electrical systems, and by night, learning back-end development.
+By day, I design electrical systems, and like to code the night away.
 
 
 ## **Goal:** ##
