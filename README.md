@@ -4,7 +4,7 @@
 
 I'm Ethan, an Electrical Design Engineer. 
 
-By day, I design electrical systems, and code by night. 
+By day, I design electrical systems, and code by night.    
 Current musing: React
 
 
