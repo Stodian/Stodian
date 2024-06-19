@@ -14,5 +14,5 @@ Current musing: React
 ....
 
 
-Till death do us part,  
+Till clash do us part,  
 Ethan
