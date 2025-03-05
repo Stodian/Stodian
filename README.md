@@ -16,3 +16,10 @@ Current musing: Xcode
 
 Till clash do us part,  
 Ethan
+
+
+
+
+
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stodian&show_icons=true&theme=radical)
+
