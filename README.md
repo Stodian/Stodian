@@ -12,9 +12,7 @@ Current musing: Xcode
 **Using machine learning to Design a complete, clash free... MEP (Mech, Elec & Plumb) system from a single .rvt file input.**
 
 ....
-
-
-Till clash do us part,  
+  
 Ethan
 
 
