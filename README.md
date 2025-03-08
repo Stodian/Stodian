@@ -13,7 +13,7 @@ Current musing: Xcode
 
 ....
   
-Ethan
+ET
 
 
 
